@@ -1,0 +1,43 @@
+C:\Users\triod315\source\repos\CS_Lab1_part1\CS_Lab1_part1\bin\Debug\CS_Lab1_part1.exe.config
+C:\Users\triod315\source\repos\CS_Lab1_part1\CS_Lab1_part1\bin\Debug\CS_Lab1_part1.exe
+C:\Users\triod315\source\repos\CS_Lab1_part1\CS_Lab1_part1\bin\Debug\CS_Lab1_part1.pdb
+C:\Users\triod315\source\repos\CS_Lab1_part1\CS_Lab1_part1\obj\Debug\CS_Lab1_part1.csprojAssemblyReference.cache
+C:\Users\triod315\source\repos\CS_Lab1_part1\CS_Lab1_part1\obj\Debug\CS_Lab1_part1.Form1.resources
+C:\Users\triod315\source\repos\CS_Lab1_part1\CS_Lab1_part1\obj\Debug\CS_Lab1_part1.Properties.Resources.resources
+C:\Users\triod315\source\repos\CS_Lab1_part1\CS_Lab1_part1\obj\Debug\CS_Lab1_part1.csproj.GenerateResource.cache
+C:\Users\triod315\source\repos\CS_Lab1_part1\CS_Lab1_part1\obj\Debug\CS_Lab1_part1.csproj.CoreCompileInputs.cache
+C:\Users\triod315\source\repos\CS_Lab1_part1\CS_Lab1_part1\obj\Debug\CS_Lab1_part1.exe
+C:\Users\triod315\source\repos\CS_Lab1_part1\CS_Lab1_part1\obj\Debug\CS_Lab1_part1.pdb
+C:\Users\triod315\source\repos\CS_Lab1_part1\CS_Lab1_part1\bin\Debug\Noemax.Compression.Net4.Trial.dll
+C:\Users\triod315\source\repos\CS_Lab1_part1\CS_Lab1_part1\bin\Debug\Noemax.Compression.Net4.Trial.xml
+C:\Users\triod315\source\repos\CS_Lab1_part1\CS_Lab1_part1\obj\Debug\CS_Lab1_part1.csproj.CopyComplete
+C:\Users\triod315\source\repos\CS_Lab1_part1\CS_Lab1_part1\obj\Debug\CS_Lab1_part1.CompressionReport.resources
+E:\triod315\3 курс\Компютерні системи\Lab1\CS_Lab1_part1\CS_Lab1_part1\bin\Debug\CS_Lab1_part1.exe.config
+E:\triod315\3 курс\Компютерні системи\Lab1\CS_Lab1_part1\CS_Lab1_part1\bin\Debug\CS_Lab1_part1.exe
+E:\triod315\3 курс\Компютерні системи\Lab1\CS_Lab1_part1\CS_Lab1_part1\bin\Debug\CS_Lab1_part1.pdb
+E:\triod315\3 курс\Компютерні системи\Lab1\CS_Lab1_part1\CS_Lab1_part1\bin\Debug\Noemax.Compression.Net4.Trial.dll
+E:\triod315\3 курс\Компютерні системи\Lab1\CS_Lab1_part1\CS_Lab1_part1\bin\Debug\Noemax.Compression.Net4.Trial.xml
+E:\triod315\3 курс\Компютерні системи\Lab1\CS_Lab1_part1\CS_Lab1_part1\obj\Debug\CS_Lab1_part1.csprojAssemblyReference.cache
+E:\triod315\3 курс\Компютерні системи\Lab1\CS_Lab1_part1\CS_Lab1_part1\obj\Debug\CS_Lab1_part1.CompressionReport.resources
+E:\triod315\3 курс\Компютерні системи\Lab1\CS_Lab1_part1\CS_Lab1_part1\obj\Debug\CS_Lab1_part1.Form1.resources
+E:\triod315\3 курс\Компютерні системи\Lab1\CS_Lab1_part1\CS_Lab1_part1\obj\Debug\CS_Lab1_part1.Properties.Resources.resources
+E:\triod315\3 курс\Компютерні системи\Lab1\CS_Lab1_part1\CS_Lab1_part1\obj\Debug\CS_Lab1_part1.csproj.GenerateResource.cache
+E:\triod315\3 курс\Компютерні системи\Lab1\CS_Lab1_part1\CS_Lab1_part1\obj\Debug\CS_Lab1_part1.csproj.CoreCompileInputs.cache
+E:\triod315\3 курс\Компютерні системи\Lab1\CS_Lab1_part1\CS_Lab1_part1\obj\Debug\CS_Lab1_part1.csproj.CopyComplete
+E:\triod315\3 курс\Компютерні системи\Lab1\CS_Lab1_part1\CS_Lab1_part1\obj\Debug\CS_Lab1_part1.exe
+E:\triod315\3 курс\Компютерні системи\Lab1\CS_Lab1_part1\CS_Lab1_part1\obj\Debug\CS_Lab1_part1.pdb
+D:\triod315\4 курс\IPCS\Labworks\staff\Lab3\Lab1\CS_Lab1_part1\CS_Lab1_part1\bin\Debug\CS_Lab1_part1.exe.config
+D:\triod315\4 курс\IPCS\Labworks\staff\Lab3\Lab1\CS_Lab1_part1\CS_Lab1_part1\bin\Debug\CS_Lab1_part1.exe
+D:\triod315\4 курс\IPCS\Labworks\staff\Lab3\Lab1\CS_Lab1_part1\CS_Lab1_part1\bin\Debug\CS_Lab1_part1.pdb
+D:\triod315\4 курс\IPCS\Labworks\staff\Lab3\Lab1\CS_Lab1_part1\CS_Lab1_part1\bin\Debug\Noemax.Compression.Net4.Trial.dll
+D:\triod315\4 курс\IPCS\Labworks\staff\Lab3\Lab1\CS_Lab1_part1\CS_Lab1_part1\bin\Debug\Noemax.Compression.Net4.Trial.xml
+D:\triod315\4 курс\IPCS\Labworks\staff\Lab3\Lab1\CS_Lab1_part1\CS_Lab1_part1\obj\Debug\CS_Lab1_part1.csprojAssemblyReference.cache
+D:\triod315\4 курс\IPCS\Labworks\staff\Lab3\Lab1\CS_Lab1_part1\CS_Lab1_part1\obj\Debug\CS_Lab1_part1.CompressionReport.resources
+D:\triod315\4 курс\IPCS\Labworks\staff\Lab3\Lab1\CS_Lab1_part1\CS_Lab1_part1\obj\Debug\CS_Lab1_part1.Form1.resources
+D:\triod315\4 курс\IPCS\Labworks\staff\Lab3\Lab1\CS_Lab1_part1\CS_Lab1_part1\obj\Debug\CS_Lab1_part1.Properties.Resources.resources
+D:\triod315\4 курс\IPCS\Labworks\staff\Lab3\Lab1\CS_Lab1_part1\CS_Lab1_part1\obj\Debug\CS_Lab1_part1.csproj.GenerateResource.cache
+D:\triod315\4 курс\IPCS\Labworks\staff\Lab3\Lab1\CS_Lab1_part1\CS_Lab1_part1\obj\Debug\CS_Lab1_part1.csproj.CoreCompileInputs.cache
+D:\triod315\4 курс\IPCS\Labworks\staff\Lab3\Lab1\CS_Lab1_part1\CS_Lab1_part1\obj\Debug\CS_Lab1_part1.csproj.CopyComplete
+D:\triod315\4 курс\IPCS\Labworks\staff\Lab3\Lab1\CS_Lab1_part1\CS_Lab1_part1\obj\Debug\CS_Lab1_part1.exe
+D:\triod315\4 курс\IPCS\Labworks\staff\Lab3\Lab1\CS_Lab1_part1\CS_Lab1_part1\obj\Debug\CS_Lab1_part1.pdb
+D:\triod315\4 курс\IPCS\Labworks\staff\Lab3\Lab1\CS_Lab1_part1\CS_Lab1_part1\obj\Debug\CS_Lab1_part1.FrequencyHistogram.resources
