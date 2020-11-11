@@ -1,0 +1,14 @@
+V:\repos\IPCS_Lab5\bin\Debug\IPCS_Lab5.exe.config
+V:\repos\IPCS_Lab5\bin\Debug\IPCS_Lab5.exe
+V:\repos\IPCS_Lab5\bin\Debug\IPCS_Lab5.pdb
+V:\repos\IPCS_Lab5\bin\Debug\ChilkatDotNet47.dll
+V:\repos\IPCS_Lab5\bin\Debug\System.Security.Cryptography.OpenSsl.dll
+V:\repos\IPCS_Lab5\bin\Debug\System.Security.Cryptography.OpenSsl.xml
+V:\repos\IPCS_Lab5\obj\Debug\IPCS_Lab5.Form1.resources
+V:\repos\IPCS_Lab5\obj\Debug\IPCS_Lab5.Properties.Resources.resources
+V:\repos\IPCS_Lab5\obj\Debug\IPCS_Lab5.csproj.GenerateResource.cache
+V:\repos\IPCS_Lab5\obj\Debug\IPCS_Lab5.csproj.CoreCompileInputs.cache
+V:\repos\IPCS_Lab5\obj\Debug\IPCS_Lab5.csproj.CopyComplete
+V:\repos\IPCS_Lab5\obj\Debug\IPCS_Lab5.exe
+V:\repos\IPCS_Lab5\obj\Debug\IPCS_Lab5.pdb
+V:\repos\IPCS_Lab5\obj\Debug\IPCS_Lab5.csprojAssemblyReference.cache
